@@ -1,6 +1,6 @@
 # Arduino_Bpod
 
-**Arduino_Bpod: An Arduino Library for controlling Bpod**
+**Arduino_Bpod: An Arduino Library for Controlling Bpod**
 
 ## Introduction
 Bpod (https://github.com/sanworks/Bpod_StateMachine_Firmware) is an open-source software for Real-time behaviour measurement. It is usually controlled by MATLAB (https://github.com/sanworks/Bpod) or Python (https://github.com/pybpod/pybpod) run in a PC. This library enables controlling Bpod using an Arduino (without PC in loop). The core functions include handshake with Bpod, construct, send and run the state matrix. See the example code ``` Arduino_Bpod_example.ino``` for how to use the library.
@@ -13,7 +13,7 @@ Bpod (https://github.com/sanworks/Bpod_StateMachine_Firmware) is an open-source 
 
 ## Citation
 
-Arduino_Bpod: An Arduino Library for controlling Bpod (2020) https://github.com/Yaoyao-Hao/Arduino_Bpod/
+Arduino_Bpod: An Arduino Library for Controlling Bpod (2020) https://github.com/Yaoyao-Hao/Arduino_Bpod/
 
 ## Contribution
 Feel free to pull a request If you want to contribute code to this repository, or leave your messages (bugs, comments, etc.) in the Issues page.
