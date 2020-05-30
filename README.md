@@ -11,7 +11,7 @@
 * Connect Arduino with Bpod through 'Serial1' port (TX1 to RX1; RX1 to TX1, GND to GND);
 * Upload ```Bpod_Firmware_0_5_modified.ino``` to Bpod (Note the original firmware was modified to adapt Arduino control);
 * Construct your custom state matrix as in ``` Apod_example.ino``` and upload it to Arduino;
-
+ 
 ## Citation
 
 Apod: An Arduino Library for Controlling Bpod (2020) https://github.com/Yaoyao-Hao/Apod/
